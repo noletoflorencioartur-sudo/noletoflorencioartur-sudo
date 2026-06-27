@@ -1,16 +1,15 @@
-Levi lá ele## Hi there 👋
+# Olá, eu sou o Artur Florêncio! 👋
 
-<!--
-**noletoflorencioartur-sudo/noletoflorencioartur-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mim
 
-Here are some ideas to get you started:
+- 💻 Desenvolvedor full stack e especialista em **React Native**, **React** e **Node.js**.
+- 🎮📱 Apaixonado por desenvolvimento **Front-End**, **mobile** e **games** em geral.
+- 🚀 Entusiasta de novas tecnologias e sempre aprendendo algo novo, atualmente focado em **TypeScript** para desenvolvimento mobile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Como me encontrar
+https://www.linkedin.com/in/artur-florencio-noleto-martins-oliveira-79128841a/?skipRedirect=true
+Instagram:artur_florencio_noleto
+
+## Explore meus repositórios abaixo e descubra os projetos em que estou trabalhando! 🚀
+
+Aqui, você encontrará projetos desenvolvidos em **React Native**, **HTML**, **CSS**, **JavaScript**, **Node.js**, **Nunjucks**, **Express** com middlewares, e projetos com estrutura **back-end** e **front-end**, além de mini aulas que crio para exercitar e compartilhar meu conhecimento. Fique à vontade para explorar e aprender comigo!
